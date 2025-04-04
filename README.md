@@ -11,6 +11,7 @@ Please use the Issues or Discussions sections for questions, feature requests, b
 # Supported Keyboards Firmware
 
 ## Svalboard
+Keyboard official website [Svalboard](https://svalboard.com/)
 
 This is the official NomiSolutions/Svalboard/QMK-Vial release that works with the app version 1.0.0 [QMK Firmware Release v0.0.1](https://github.com/nomisolutions/vial-qmk/releases/tag/v0.0.1klayi)
 
