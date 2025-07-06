@@ -13,6 +13,8 @@ Please use the Issues or Discussions sections for questions, feature requests, b
 ## Svalboard
 Keyboard official website [Svalboard](https://svalboard.com/)
 
-This is the official NomiSolutions/Svalboard/QMK-Vial release that works with the app version 1.0.0 [QMK Firmware Release v0.0.1](https://github.com/nomisolutions/vial-qmk/releases/tag/v0.0.1klayi)
+## Versions
+- Klayi version 2.0.0 [QMK Firmware Release v0.0.2](https://github.com/nomisolutions/vial-qmk/tree/v0.0.2klayi)
+- Klayi version 1.0.0 [QMK Firmware Release v0.0.1](https://github.com/nomisolutions/vial-qmk/releases/tag/v0.0.1klayi)
 
 This is the Svalboard/QMK-Vial fork with layout indicator support [Nomisolutions/Svalboard/QMK-Vial](https://github.com/nomisolutions/vial-qmk/tree/layout-indicator)
