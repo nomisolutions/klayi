@@ -17,4 +17,8 @@ Keyboard official website [Svalboard](https://svalboard.com/)
 - Klayi version 1.1.1 [QMK Firmware Release v0.0.2](https://github.com/nomisolutions/vial-qmk/tree/v0.0.2klayi)
 - Klayi version 1.0.0 [QMK Firmware Release v0.0.1](https://github.com/nomisolutions/vial-qmk/releases/tag/v0.0.1klayi)
 
-This is the Svalboard/QMK-Vial fork with layout indicator support [Nomisolutions/Svalboard/QMK-Vial](https://github.com/nomisolutions/vial-qmk/tree/layout-indicator)
+This is the Svalboard/QMK-Vial fork with the layout indicator support implementation [Nomisolutions/Svalboard/QMK-Vial](https://github.com/nomisolutions/vial-qmk/tree/layout-indicator)
+
+## Contributions
+
+Contributions are welcomed. If you'd like to add support for your keyboard feel free to submit a PR. If landed succesfully you will get access to TestFlight builds for the next planned or current release.
