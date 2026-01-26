@@ -53,7 +53,7 @@
         NSInteger index = (NSInteger)buffer[2];
         NSData *indexData = [NSData dataWithBytes:&index length:sizeof(index)];
         [self.delegate keyboard:self didChangeLayer:indexData];
-    } if (buffer[1] == QMK_SVAL_REFRESH_TIMER_CMD) {
+    } else if (buffer[1] == QMK_SVAL_REFRESH_TIMER_CMD) {
         if ([self.delegate respondsToSelector:@selector(keyboardDidRefreshConnection:)]) {
             [self.delegate keyboardDidRefreshConnection:self];
         }
