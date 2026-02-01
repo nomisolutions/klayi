@@ -1,7 +1,7 @@
 # Klayi - Keyboard Layout Indicator
 
-<img width="337" height="168" alt="klayi" src="https://github.com/user-attachments/assets/a4f13bc8-c277-4e1d-81ae-2e079a82fdc8" />
-<img width="277" height="172" alt="klayi1" src="https://github.com/user-attachments/assets/d3e354ab-2117-408f-88b5-087e50be2b49" />
+<img width="265" height="246" alt="klayi" src="https://github.com/user-attachments/assets/0a973cc9-a446-4eb7-adc0-595e00dd01b9" />
+
 
 This repo is for the app users community.
 
