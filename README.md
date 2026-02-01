@@ -2,7 +2,6 @@
 
 <img width="265" height="246" alt="klayi" src="https://github.com/user-attachments/assets/0a973cc9-a446-4eb7-adc0-595e00dd01b9" />
 
-
 This repo is for the app users community.
 
 Please use the Issues or Discussions sections for questions, feature requests, bug reports, and sharing feedback or ideas with other users.
@@ -16,11 +15,13 @@ Please use the Issues or Discussions sections for questions, feature requests, b
 ## Svalboard
 Keyboard official website [Svalboard](https://svalboard.com/)
 
-## Versions
-- Klayi version 1.1.1 [QMK Firmware Release v0.0.2](https://github.com/nomisolutions/vial-qmk/tree/v0.0.2klayi)
-- Klayi version 1.0.0 [QMK Firmware Release v0.0.1](https://github.com/nomisolutions/vial-qmk/releases/tag/v0.0.1klayi)
+- Klayi version 1.1.1 or higher [QMK Firmware Release v0.0.2](https://github.com/nomisolutions/vial-qmk/tree/v0.0.2klayi)
+- Klayi version 1.0.0 or higher [QMK Firmware Release v0.0.1](https://github.com/nomisolutions/vial-qmk/releases/tag/v0.0.1klayi)
 
-This is the Svalboard/QMK-Vial fork with the layout indicator support implementation [Nomisolutions/Svalboard/QMK-Vial](https://github.com/nomisolutions/vial-qmk/tree/layout-indicator)
+## ZSA Moonlander
+Keyboard official website [Moonlander](https://www.zsa.io/moonlander)
+
+- Klayi versin 1.2.0 or higher [QMK/ZSA Firmware Release v0.1.2](https://github.com/nomisolutions/qmk_firmware)
 
 ## Contributions
 
