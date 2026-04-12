@@ -26,3 +26,7 @@ Keyboard official website [Moonlander](https://www.zsa.io/moonlander)
 ## Contributions
 
 Contributions are welcomed. If you'd like to add support for your keyboard feel free to submit a PR. If landed succesfully you will get access to TestFlight builds for the next planned or current release.
+
+## Demo
+
+Watch on Youtube [Layout Indicator on ZSA Moonlander](https://www.youtube.com/watch?v=w17R7r-vV_U)
