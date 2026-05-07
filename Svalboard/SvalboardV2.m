@@ -13,6 +13,10 @@
 @synthesize name;
 @synthesize delegate;
 
++ (NSString *)displayName {
+    return @"Svalboard V2";
+}
+
 - (instancetype)init: (id<KeyboardDelegate>)delegate {
     self = [super init];
     if (self) {

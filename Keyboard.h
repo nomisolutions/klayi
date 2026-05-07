@@ -13,6 +13,7 @@
 #import "KeyboardDelegate.h"
 
 @protocol Keyboard
+@property (class, nonatomic, copy, readonly) NSString *displayName;
 @property (assign, nonatomic) NSString *name;
 @property (weak, nonatomic) id<KeyboardDelegate> delegate;
 - (instancetype)init: (id<KeyboardDelegate>) delegate;

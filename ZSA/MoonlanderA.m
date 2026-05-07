@@ -12,6 +12,10 @@
 @synthesize name;
 @synthesize delegate;
 
++ (NSString *)displayName {
+    return @"Moonlander (Rev A)";
+}
+
 - (instancetype)init: (id<KeyboardDelegate>) delegate {
     self = [super init];
     if (self) {
