@@ -21,7 +21,15 @@ Keyboard official website [Svalboard](https://svalboard.com/)
 ## ZSA Moonlander
 Keyboard official website [Moonlander](https://www.zsa.io/moonlander)
 
-- Klayi versin 1.2.0 or higher [QMK/ZSA Firmware Release v0.1.2](https://github.com/nomisolutions/qmk_firmware)
+- Klayi version 1.2.0 or higher [QMK/ZSA Firmware Release v0.1.2](https://github.com/nomisolutions/qmk_firmware)
+- Klayi version 1.3.0 or higher supports the Moonlander Oryx protocol.
+
+### Moonlander protocol options
+
+- **Moonlander (Oryx)** uses the ZSA Oryx raw HID protocol over USB usage page `0xFF60` and usage ID `0x61`. This is the recommended option for firmware that includes the Oryx QMK module.
+- **Moonlander (A)** uses the older Klayi active-layer raw HID protocol.
+
+For implementation details, see the [ZSA Oryx QMK module](https://github.com/zsa/qmk_modules/tree/main/oryx).
 
 ## Contributions
 
