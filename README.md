@@ -37,4 +37,4 @@ Contributions are welcomed. If you'd like to add support for your keyboard feel 
 
 ## Demo
 
-Watch on Youtube [Layout Indicator on ZSA Moonlander](https://www.youtube.com/watch?v=w17R7r-vV_U)
+Watch on Youtube [Layout Indicator on ZSA Moonlander](https://www.youtube.com/watch?v=tv10-MyxraA)
